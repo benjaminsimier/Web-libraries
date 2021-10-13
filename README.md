@@ -39,81 +39,81 @@ https://packery.metafizzy.co
 ----
 ## CSS Frameworks
 
-#### Fondation: \
+#### Fondation\
 https://foundation.zurb.com
 
-#### Knacss: \
+#### Knacss: 
 https://www.knacss.com
 
-#### Milligram: \
+#### Milligram: 
 https://milligram.io
 
-#### Bulma: \
+#### Bulma: 
 https://bulma.io
 
-#### Pure.css: \
+#### Pure.css: 
 https://purecss.io
 
-#### Gumby: \
+#### Gumby: 
 https://gumbyframework.com
 
-#### Gridism: \
+#### Gridism: 
 http://cobyism.com/gridism/
 
-#### Sementic UI: \
+#### Sementic UI: 
 https://semantic-ui.com
 
-#### Uikit: \
+#### Uikit: 
 https://getuikit.com
 
-#### Materialize CSS: \
+#### Materialize CSS: 
 https://materializecss.com/
 
-#### Material Kit: \
+#### Material Kit: 
 https://demos.creative-tim.com/material-kit/index.html
 
-#### MUI: \
+#### MUI: 
 https://www.muicss.com
 
-#### IceCream: \
+#### IceCream: 
 http://html5-ninja.com/icecream/
 
-#### Gridly: \
+#### Gridly: 
 http://ionicabizau.github.io/gridly/example/
 
-#### Gridlex: \
+#### Gridlex: 
 http://gridlex.devlint.fr
 
-#### Kenwheeler: \
+#### Kenwheeler: 
 http://kenwheeler.github.io/structure/
 
 ----
 ## CSS Generator
 
-#### CSS Type Set: \
+#### CSS Type Set: 
 http://csstypeset.com
 
-#### Border Radius Generator: \
+#### Border Radius Generator: 
 https://border-radius.com
 
-#### Box Shadow: \
+#### Box Shadow: 
 https://www.cssmatic.com/box-shadow
 
-#### CSS3 Generator: \
+#### CSS3 Generator: 
 http://css3generator.com
 
-#### CSS3 Button Generator: \
+#### CSS3 Button Generator: 
 https://www.designrush.com/resources/css3buttongenerator
 
-#### Ultimate CSS Gradient Generator: \
+#### Ultimate CSS Gradient Generator: 
 http://www.colorzilla.com/gradient-editor/
 
-#### CSS Load: \
+#### CSS Load: 
 https://icons8.com/cssload/
 
-#### CSS Arrow Please: \
+#### CSS Arrow Please: 
 http://www.cssarrowplease.com
 
-#### CSS Opacity Generator: \
+#### CSS Opacity Generator: 
 http://www.internetagentur-elbgoods.de/tools/en-css-opacity-generator/
 
